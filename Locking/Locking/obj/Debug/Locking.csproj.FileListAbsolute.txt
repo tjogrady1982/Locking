@@ -1,0 +1,7 @@
+c:\users\tim\source\repos\Locking\Locking\bin\Debug\Locking.exe.config
+c:\users\tim\source\repos\Locking\Locking\bin\Debug\Locking.exe
+c:\users\tim\source\repos\Locking\Locking\bin\Debug\Locking.pdb
+c:\users\tim\source\repos\Locking\Locking\obj\Debug\Locking.csprojResolveAssemblyReference.cache
+c:\users\tim\source\repos\Locking\Locking\obj\Debug\Locking.csproj.CoreCompileInputs.cache
+c:\users\tim\source\repos\Locking\Locking\obj\Debug\Locking.exe
+c:\users\tim\source\repos\Locking\Locking\obj\Debug\Locking.pdb
